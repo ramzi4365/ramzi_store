@@ -42,8 +42,8 @@ lib/
 ├── main.dart
 
 
-picture
-<img width="150" height="400" alt="Screenshot_20251021_132519" src="https://github.com/user-attachments/assets/a7ec34f2-9a55-4fbb-812f-f693e8db7493" />
+<img width="817" height="587" alt="image" src="https://github.com/user-attachments/assets/d3b0ca17-1edf-4434-b1c5-00d0cbab61db" />
+
 
 
 
