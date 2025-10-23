@@ -43,7 +43,7 @@ lib/
 
 
 picture
-<img width="1440" height="3120" alt="Screenshot_20251021_132519" src="https://github.com/user-attachments/assets/a7ec34f2-9a55-4fbb-812f-f693e8db7493" />
+<img width="200" height="80" alt="Screenshot_20251021_132519" src="https://github.com/user-attachments/assets/a7ec34f2-9a55-4fbb-812f-f693e8db7493" />
 
 
 
