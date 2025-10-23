@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591699439573",
+    "project_id": "ramzi-store-ab0c2",
+    "storage_bucket": "ramzi-store-ab0c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591699439573:android:f8c8df301688f91194975c",
+        "android_client_info": {
+          "package_name": "com.example.ramzi_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWT9WX7kCXh6EarvTrE5s5kSMoC4MQFmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
