@@ -42,7 +42,7 @@ lib/
 ├── main.dart
 
 
-<img width="817" height="587" alt="image" src="https://github.com/user-attachments/assets/d3b0ca17-1edf-4434-b1c5-00d0cbab61db" />
+<img width="717" height="487" alt="image" src="https://github.com/user-attachments/assets/d3b0ca17-1edf-4434-b1c5-00d0cbab61db" />
 
 
 
