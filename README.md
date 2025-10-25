@@ -42,11 +42,9 @@ lib/
 ├── main.dart
 
 
-<img width="717" height="487" alt="image" src="https://github.com/user-attachments/assets/d3b0ca17-1edf-4434-b1c5-00d0cbab61db" />
-<img width="704" height="1000" alt="Generated Image October 23, 2025 - 3_19PM - Copy" src="https://github.com/user-attachments/assets/bfb0943a-4ec9-43a6-8566-be438c492da0" />
-<img width="704" height="1000" alt="Generated Image October 19, 2025 - 12_59PM" src="https://github.com/user-attachments/assets/e315d3e8-bdbe-4457-a0d4-09e389b653a4" />
-
-
+| User App | Admin Dashboard | Delivery App |
+| -------- | --------------- | ------------ |
+| <img src="https://github.com/user-attachments/assets/d3b0ca17-1edf-4434-b1c5-00d0cbab61db" width="250" /> | <img src="https://github.com/user-attachments/assets/bfb0943a-4ec9-43a6-8566-be438c492da0" width="250" /> | <img src="https://github.com/user-attachments/assets/e315d3e8-bdbe-4457-a0d4-09e389b653a4" width="250" /> |
 
 
 
